@@ -1,0 +1,3 @@
+You should provide a brief and clear description of the digital output or digital technology being proposed, considering the following aspects: purpose, source data, content, functionality, use and its relationship to the research questions. You should identify the type of access envisaged, if applicable, such as 'freely available online'.
+
+The summary should provide clear overview of what you intend to achieve technically, to enable reviewers to assess whether the plans for achieving this are appropriate. You should provide a level of detail which is appropriate to the digital output or digital technology being proposed and its cost and status within the project.

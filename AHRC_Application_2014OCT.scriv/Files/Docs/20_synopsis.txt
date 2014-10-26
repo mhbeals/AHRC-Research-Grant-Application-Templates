@@ -1,0 +1,1 @@
+You should provide information about your choice of data and file formats. You must provide any relevant vital statistics relating to the data, such as size, quantity and duration. Although such statistics might need to rely on estimation, you should provide the reasoning behind your calculations. You should give your reasons for using the standards or formats chosen.

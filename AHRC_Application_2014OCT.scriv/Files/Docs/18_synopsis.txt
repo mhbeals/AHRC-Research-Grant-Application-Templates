@@ -1,0 +1,13 @@
+You should provide information about the relevant expertise, including examples, of all individuals, facilities, organisations or services that will be responsible for the technical components of your project.
+
+You should identify which aspects of the technical work will be undertaken by these project participants, identifying key individuals where possible. It should be clear to a reviewer that you have access to the appropriate skills and expertise that will deliver a successful project.
+
+In your assessment of risk, under 'Project Management' in the Case for Support, you should consider the risks to the project if a key individual becomes unavailable, including the contingency plan for acquiring these skills from elsewhere.
+
+You are encouraged, wherever appropriate, to seek partners from outside your institution to cover the technical elements of the project, and/or to seek relevant external advice. The key consideration is that your project should be informed by the right level of technical expertise in conception, development and execution. You should provide information about any external advice which you have sought.
+
+You must identify the need for any additional training or expertise and give information as to how this will be provided.
+
+In order to reduce risk to project development and sustainability, and unless there are good reasons not to do so, it is generally wise to ensure that the technical expertise employed by your project is supported by expertise in your institution or one that is a partner to the project. You should show how far this is the case.
+
+The expertise and experience of the participants responsible for the project’s technical components - whether internal or external to your institution - must be evident from the quality of the Technical Plan as a whole. Applicants who claim to be able to draw upon considerable expertise, but are unable to show that they have worked closely with the relevant project participants in completing the Technical Plan, will not be viewed favourably by Technical Reviewers. Similarly, it is unacceptable to state that these participants will address technical issues during the course of the project and then fail to provide sufficient technical detail in the Technical Plan. 
