@@ -10,4 +10,6 @@ All descriptions and headings were dervived from the AHRC's online documentation
 
 I, the compiler, have attempted to recreate the correct documentation for the current AHRC application process but, as will all templates, please check the current documentation from the funding body before submission.
 
-M. H. Beals Sheffield Hallam University 26 October 2014
+M. H. Beals  
+*Sheffield Hallam University*  
+26 October 2014
